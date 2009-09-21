@@ -1,0 +1,28 @@
+/** Aula TP 01 */
+
+// Ex 1
+/**
+A diferença essencial entre um programa e um processo, e' que o programa é o conjunto de instruções de e informação para atingir um objectivo, sendo que um processo e' a instanciação do programa sendo composto por um espaço de endereçamento, variáveis e outros tipos de recursos (mutex...)
+*/
+
+// Ex 2
+/**
+Um program em C tem a seguinte estrutura:
+- #includes
+- variáveis globais (em caso último de necessidade)
+- a função int main(int argc, char * argv[], char* envp[])
+- outra funções necessárias para a correcta solução do problema
+*/
+
+//Ex 3
+/**
+Bibliotecas dinâmicas partilhadas são bibliotecas que podem ser acedidas em runtime, e não apenas incluídas no programa no momento em que é compilada.
+Algumas das vantagens da ligação dinâmica de bibliotecas é que as bilbiotecas podem ser acedidas em runtime, sendo que isto diminui o tamanho do programa principal, e permite que se carregue e descarregue as bibliotecas em runtime.
+Outra vantagem é que permite-nos utilizar sempre a versão mais recente da biblioteca actualizada pelo seu autor
+*/
+
+// Ex 4
+/**
+
+*/
+
