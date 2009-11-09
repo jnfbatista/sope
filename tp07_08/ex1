@@ -1,0 +1,4 @@
+Os mutexes existem para coordenar o acesso a zonas críticas e é binaŕio, ou
+seja, ou a zona está fechada (locked), enquanto os
+semáforos são um escalonador de acesso a zonas críticas, indo-se decrementando
+conmforme o numero de threads estiverem a aceder
